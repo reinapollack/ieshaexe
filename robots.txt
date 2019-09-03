@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thohlaiji.darekkvanocumproevuverilabyszetahledomenabylavolna.cz/sitemap.xml
